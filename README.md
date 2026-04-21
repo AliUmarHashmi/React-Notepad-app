@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Hey guys this project is live available at following link: simplenotepadapp.netlify.app
+Hey guys this project is live available at following link: [simplenotepadapp.netlify.app](https://simplenotepadapp.netlify.app)
 
 ## Available Scripts
 
