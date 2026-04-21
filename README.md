@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hey guys this project is live available at following link: simplenotepadapp.netlify.app
 
 ## Available Scripts
 
